@@ -1,0 +1,40 @@
+.container {
+  padding-inline: 32px;
+}
+
+.navbar {
+  width: 296px;
+}
+
+header {
+  gap: 50px;
+}
+
+.dropdown-toggle::after {
+  color: $success;
+}
+
+.navbar {
+  padding-block: 32px;
+
+  .navbar-brand, 
+  ul li,
+  .avatar-container {
+    padding-left: 32px;
+  }
+
+  ul {
+    margin-top: 32px;
+    li {
+      margin-bottom: 26px;
+    }
+  }
+}
+
+header {
+  padding-block: 32px;
+}
+
+.card {
+  margin-top: 12px;
+}

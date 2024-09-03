@@ -1,0 +1,17 @@
+.navbar {
+  width: 296px;
+  padding-block: 32px;
+
+  .navbar-brand, 
+  ul li,
+  .avatar-container {
+    padding-left: 32px;
+  }
+
+  ul {
+    margin-top: 32px;
+    li {
+      margin-bottom: 26px;
+    }
+  }
+}
