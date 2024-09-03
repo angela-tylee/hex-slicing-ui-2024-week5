@@ -6,8 +6,8 @@
 
 ### Built with
 
+- Bootstrap
 - Vite
 - gh-page
 - Sass
 - EJS
-- Bootstrap
